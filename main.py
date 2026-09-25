@@ -4,10 +4,14 @@ import re
 import sys
 import time
 import glob
+from dotenv import load_dotenv
 from datetime import datetime
 from grok_client import call_grok
 import document_generator
 import sheets_client
+
+
+load_dotenv()
 
 # Force UTF-8 on Windows terminal output to prevent charmap errors
 if hasattr(sys.stdout, 'reconfigure'):
@@ -24,15 +28,15 @@ except ImportError:
 # CANDIDATE FACTUAL BASELINE (100% Truthful from original CV)
 # =====================================================================
 BASE_CANDIDATE = {
-    "name": "Aishvarya Sahu",
+    "name": os.getenv("CANDIDATE_NAME", "Candidate"),
     "contact_info": {
-        "location": "Bhopal, Madhya Pradesh, India",
-        "phone": "+91 89824 22652",
-        "email": "sahuaishvarya.8786@gmail.com",
-        "linkedin": "linkedin.com/in/aishvarya-sahu",
-        "github": "github.com/aishvarya7778-w",
-        "portfolio": "sites.google.com/view/aishvarya7778"
-    },
+    "location": os.getenv("CANDIDATE_LOCATION", "Bhopal, Madhya Pradesh, India"),
+    "phone": os.getenv("CANDIDATE_PHONE", ""),
+    "email": os.getenv("CANDIDATE_EMAIL", ""),
+    "linkedin": os.getenv("CANDIDATE_LINKEDIN", ""),
+    "github": os.getenv("CANDIDATE_GITHUB", ""),
+    "portfolio": os.getenv("CANDIDATE_PORTFOLIO", "")
+},
     "education": [
         {
             "degree": "Bachelor of Technology (B.Tech), Computer Science and Engineering",
