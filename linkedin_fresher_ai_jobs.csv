@@ -1,0 +1,450 @@
+﻿Job ID,Job Title,Company Name,Location,Date Posted,Seniority Level,Employment Type,Job Function,Industries,Job Description,Job URL
+4374780739,Junior AI Engineer,Soothsayer Analytics,"Hyderabad, Telangana, India",7 months ago,Not Applicable,Full-time,Engineering and Information Technology,IT Services and IT Consulting,"Working Hours : 
+Full-time 
+Locations : 
+Hyderabad
+Experience : 
+Min 2 years
+apply now
+apply now
+About The Role
+Soothsayer Analytics is a global AI & Data Science consultancy headquartered in Detroit, with a thriving delivery center in Hyderabad. We design and deploy end-to-end custom Machine Learning & GenAI solutions—spanning predictive analytics, optimization, NLP, computer vision, and enterprise-scale AI platforms—that help leading enterprises forecast, automate, and gain a competitive edge.
+This is a unique opportunity to begin your AI career by working on cutting-edge GenAI, ML, and data-driven projects across industries.
+Job Overview
+We seek a Junior AI Engineer with minimum 2 years of hands-on experience (or strong internships or projects) in machine learning, NLP, or GenAI. You will support the development and deployment of AI models, contribute to data preparation pipelines, and learn best practices in MLOps and applied AI engineering.
+Key Responsibilities
+ Model Development & Support
+Assist in building ML models such as classification, regression, clustering, and forecasting.
+Contribute to fine-tuning and prompt engineering for LLMs such as GPT and LLaMA.
+Experiment with vector databases and RAG pipelines for GenAI applications.
+ Data Preparation & Engineering
+Work with structured and unstructured datasets for ML training.
+Perform data cleaning, feature engineering, and basic pipeline development.
+ MLOps & Deployment (Learning Role)
+Support containerization and deployment of models using Docker and Kubernetes.
+Learn to implement CI/CD pipelines for ML workflows.
+ Collaboration & Learning
+Work under the guidance of senior engineers and data scientists.
+Document experiments and present results to technical and business stakeholders.
+Required Skills & Qualifications
+Education: Bachelor’s in Computer Science, AI, Data Science, or related field.
+Experience: 1–2 years including internships, academic projects, or full-time roles.
+Programming: Python (pandas, NumPy, scikit-learn, PyTorch or TensorFlow)
+ML Basics: Regression, classification, clustering, time-series
+GenAI / LLMs: Prompt engineering, LangChain basics, RAG concepts
+Databases: SQL (basic), exposure to NoSQL and vector databases (Pinecone, FAISS)
+MLOps Exposure: Docker, Git, basic CI/CD knowledge
+Bonus: Knowledge of vision models, transformers, or cloud AI services (AWS SageMaker, Azure ML, GCP Vertex AI)
+Skills Matrix
+Skill Details Last Used Experience (Months) Self-Rating (0–10) Python (pandas, sklearn, PyTorch/TensorFlow) ML Basics (Regression, Clustering, etc.) GenAI / LLMs (Prompting, LangChain, etc.) SQL / NoSQL Vector Databases (FAISS, Pinecone, pgvector) MLOps Tools (Docker, Git, CI/CD) Cloud AI Platforms (AWS / Azure / GCP)
+Instructions for Candidates
+Provide a detailed resume highlighting academic or industry projects in machine learning and AI.
+Fill out the above skills matrix with accurate details and self-ratings.",https://in.linkedin.com/jobs/view/junior-ai-engineer-at-soothsayer-analytics-4374780739
+4468194982,Jr Cloud Engineer,Brillius Technologies,"Hyderabad, Telangana, India",2 days ago,Entry level,Full-time,Engineering and Information Technology,IT Services and IT Consulting,"Company Description
+ Brillius Technologies specializes in global contingent workforce solutions, connecting organizations with top tech talent and tailored services for a fast-evolving, tech-driven world. The company’s domain expertise includes Quantum Computing, Edge Computing, Generative AI, Building Information Modeling (BIM), and Green Tech, enabling innovative, future-focused support for clients. Brillius Technologies focuses on building long-term partnerships and aligning workforce solutions with business objectives to drive growth, efficiency, and faster time-to-market. The team supports both startups and large enterprises with strategic guidance and scalable talent solutions, helping them move from concept to market-ready products and expand their capabilities. With a strong track record of delivering exceptional talent and integrating seamlessly with client teams, Brillius Technologies empowers organizations to stay ahead in a rapidly changing technology landscape.
+Role Description
+ This is a full-time, on-site AI Engineer role based in Hyderabad. The AI Engineer will design, build, and optimize machine learning and deep learning models that support client solutions across domains such as Generative AI and data-driven applications. Daily responsibilities include analyzing complex datasets, experimenting with algorithms for pattern recognition and neural networks, and implementing production-ready AI pipelines in collaboration with software development teams. The role involves working closely with cross-functional stakeholders to understand business requirements, translating them into technical specifications, and delivering reliable, scalable AI solutions. The AI Engineer will also review and improve existing models, document technical decisions, and contribute to best practices and innovation within the engineering team.
+Qualifications
+ 
+Strong foundation in Computer Science and Software Development, including data structures, algorithms, and coding best practices.
+Hands-on experience with Pattern Recognition and Neural Networks for building and optimizing machine learning and deep learning models.
+Practical expertise in Natural Language Processing (NLP), including model training, evaluation, and deployment for real-world applications.
+Proficiency in programming languages commonly used in AI (such as Python), and familiarity with ML/DL frameworks (for example, TensorFlow or PyTorch).
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related quantitative field, or equivalent practical experience.
+Ability to work collaboratively in on-site, cross-functional teams, communicate complex technical ideas clearly, and deliver solutions within agreed timelines.
+Experience with cloud platforms, MLOps practices, and scalable AI architectures is highly beneficial.
+Demonstrated curiosity, problem-solving skills, and a commitment to continuous learning in emerging AI and computing technologies.",https://in.linkedin.com/jobs/view/jr-cloud-engineer-at-brillius-technologies-4468194982
+4462467393,AI/ML Computational Science Associate,Accenture in India,"Hyderabad, Telangana, India",3 weeks ago,Not Applicable,Full-time,Other,IT Services and IT Consulting,"Skill required:
+ Tech for Operations - Artificial Intelligence (AI)
+Designation:
+ AI/ML Computational Science Associate
+Qualifications:
+BE/BTech
+Years of Experience:
+6months-1year
+About Accenture
+Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song— all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.Visit us at www.accenture.com
+What would you do?
+ We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming and software development concepts. The candidate will work with experienced development teams to design, develop, test, and maintain applications while gaining exposure to cloud, data engineering, AI, and modern software development practices.
+ This role provides an excellent opportunity to build a career in application development, automation, data processing, and emerging technologies using Python
+ Relevant certifications in Python, Cloud, Data Analytics, or AI are an added advantage. What are we looking for?
+ ? Good knowledge of Python programming.
+ Understanding of Object Oriented Programming (OOP) concepts.
+ Basic knowledge of:
+ Data Structures & Algorithms
+ SQL and Database Concepts
+ REST APIs
+ Git Version Control
+ Software Development Life Cycle (SDLC) Roles and Responsibilities:
+ Develop, test, and maintain Python-based applications and scripts.
+ Participate in coding, debugging, and troubleshooting activities.
+ Assist in developing REST APIs and backend services.
+ Support automation and process improvement initiatives.
+ Work on data processing, reporting, and analytics solutions.
+ Participate in code reviews and follow coding standards.
+ Collaborate with cross-functional teams to understand requirements and deliver solutions.
+ Prepare technical documentation and project updates.
+ Learn and adopt emerging technologies, tools, and frameworks.
+Preferred Competencies
+ Strong analytical and problem-solving skills.
+ Excellent communication and teamwork skills.
+ Eagerness to learn new technologies.
+ Ability to work in a collaborative and fast-paced environment.
+ Positive attitude and customer-centric mindset.",https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4462467393
+4453474215,Data Scientist I,Kroll,"Hyderabad, Telangana, India",2 weeks ago,Not Applicable,Full-time,Engineering and Information Technology,Business Consulting and Services,"Kroll is hiring a Data Scientist to join its Enterprise Data Group. This role is ideal for an early- to mid-career practitioner who is eager to develop deep expertise across the ML lifecycle while contributing to high-impact work in a sophisticated, collaborative data science team.
+Our program spans fintech product development, digital transformation, process automation with machine learning, business intelligence, data governance, and generative AI. You will be embedded in a team of experienced data scientists and engineers who will invest in your growth — and work alongside professionals from the world's largest financial institutions, law enforcement agencies, and government bodies.
+At Kroll, your work will help deliver clarity to our clients' most complex governance, risk, and transparency challenges. Apply now to join One team, One Kroll.
+Responsibilities
+Build, train, and evaluate machine learning models across traditional ML, NLP, and LLM/GenAI use cases, under the guidance of senior team members
+Contribute to data pipelines and feature engineering workflows in Databricks using PySpark and Delta Lake
+Support model deployment and monitoring on Azure — including Azure AI Foundry, Azure OpenAI, and Azure Functions — and help maintain production model health
+Contribute to LLM and generative AI workflows — including prompt engineering, RAG pipelines, and agentic applications built on frameworks such as LangChain or LlamaIndex — under the guidance of senior team members
+Conduct exploratory data analysis and communicate findings clearly through code, documentation, and team presentations
+Write clean, well-tested, and reproducible Python code; contribute to shared codebases and track experiments via MLflow
+Partner with senior data scientists and cross-functional stakeholders to understand business problems and translate them into analytical approaches
+Participate actively in code reviews, team rituals, and knowledge-sharing sessions
+Develop your skills proactively — engage with new tools, research, and techniques relevant to the team's work
+Requirements
+Bachelor's or Master's degree in computer science, statistics, mathematics, data science, or a related quantitative field
+1–3 years of practical data science or ML experience (internships, co-ops, research, and strong project work all count)
+Proficiency in Python and familiarity with core ML libraries (scikit-learn, pandas, NumPy)
+Solid understanding of foundational ML concepts: supervised and unsupervised learning, model evaluation, cross-validation, and feature engineering
+Exposure to at least one deep learning or NLP framework (PyTorch, TensorFlow, or Hugging Face Transformers) and familiarity with LLM concepts such as prompt engineering, embeddings, or retrieval-augmented generation
+Comfort working with structured and unstructured data, including text and document-based sources
+Basic understanding of the ML lifecycle — from data preparation and experimentation through evaluation and handoff
+Clear, organised communication skills — able to document work and explain methods to peers and stakeholders
+Curiosity, rigour, and a strong drive to learn in a fast-paced, collaborative environment
+Preferred
+Hands-on experience with Databricks, Spark/PySpark, or cloud ML platforms (Azure AI Foundry, AWS SageMaker, or GCP Vertex AI)
+Hands-on experience with LLM/GenAI and agentic workflows — prompt engineering, RAG, embeddings, vector databases, or building with frameworks such as LangChain, LlamaIndex, or Semantic Kernel
+Familiarity with MLflow or other experiment tracking and model versioning tools
+Experience in financial services, risk, compliance, or a regulated industry
+Knowledge of responsible AI principles, including fairness, transparency, and data privacy",https://in.linkedin.com/jobs/view/data-scientist-i-at-kroll-4453474215
+4433105180,AI/ML Engineer - DevOps,Technoidentity,"Hyderabad, Telangana, India",2 months ago,Associate,Full-time,Engineering and Information Technology,Software Development,"Supercharge Your Career as a AI DevOps Engineer at Technoidentity!
+At Technoidentity, we're a Data & AI product engineering company with over 15 years of expertise in building durable digital products, intelligent enterprise solutions, and scalable Data & AI platforms. As we continue expanding globally, it's the perfect time to join our team of tech innovators and make a lasting impact.
+What’s in it for You?
+We are looking for an AI DevOps Engineer with 0–3 years of experience who is passionate about AI, Cloud, DevOps, and Automation. The role involves building, deploying, and managing AI-powered applications, LLM solutions, and cloud-native platforms while ensuring reliability, scalability, security, and observability.
+What Will You Be Doing?
+Develop and deploy AI/ML and Generative AI solutions using Python.
+Build applications leveraging LLMs, RAG, and AI agents.
+Create and maintain CI/CD pipelines for AI applications.
+Deploy and manage workloads using Docker and Kubernetes.
+Support cloud platforms (AWS, Azure, or GCP).
+Implement Infrastructure as Code (Terraform) and automation workflows.
+Monitor applications using observability tools such as Prometheus, Grafana, and logging platforms.
+Collaborate with engineering teams to ensure system reliability, performance, and security.
+Contribute to MLOps practices, AI accelerators, and reusable frameworks.
+Requirements
+What Makes You the Perfect Fit?
+Python programming (mandatory)
+Understanding of Machine Learning, LLMs, Prompt Engineering, and RAG
+Experience with OpenAI, LangChain, LlamaIndex, or Hugging Face
+Docker, Kubernetes, Git, and CI/CD tools
+AWS, Azure, or GCP
+PostgreSQL; MongoDB and Vector Databases are a plus
+Basic knowledge of MLOps, Terraform, and workflow orchestration tools (Airflow/Temporal)
+Familiarity with observability and monitoring tools
+Qualifications
+Bachelor's degree in Computer Science, AI, Data Science, IT, or related field
+0–3 years of experience in AI/ML, Software Engineering, Cloud, DevOps, or related areas
+Nice to Have
+Experience with Agentic AI frameworks
+Knowledge of MLOps and AI platform operations
+Exposure to enterprise-grade monitoring, reliability engineering, and security best practices
+Skills:- Python, DevOps, Machine Learning (ML) and Artificial Intelligence (AI)",https://in.linkedin.com/jobs/view/ai-ml-engineer-devops-at-technoidentity-4433105180
+4437082291,Jr. AI Backend Engineer,CittaAI,"Hyderabad, Telangana, India",2 months ago,Entry level,Full-time,Engineering,IT Services and IT Consulting,"Junior AI  Backend Engineer
+ 
+Mode:
+ Remote / Hybrid
+ 
+Experience:
+ 1-3 Years
+ 
+ABOUT US
+ 
+We are an engineering team building AI agent systems that automate complex knowledge work — document generation, structured reasoning, and multi-step task orchestration. Our systems are deployed in production and used by real teams to make real decisions.We build carefully, govern rigorously, and take quality seriously.
+ 
+THE IMPACT YOU WILL MAKE
+ 
+As a Junior AI / Backend Engineer, you will be responsible for building the backend services and agent pipelines that make LLM outputs reliable, structured, and safe to use in production. Your work will sit at the foundation of every agent capability we ship.
+ 
+This is systems engineering around AI models
+ 
+WHAT YOU WILL DO
+ 
+ 
+API Development:  
+Design and maintain FastAPI services that expose agent capabilities as clean, versioned APIs.
+ 
+Agent Pipelines:  
+Build LangChain orchestration pipelines with structured I/O contracts, retry logic, and fallback handling.
+ 
+Cloud Infrastructure:  
+Work with Azure infrastructure including Azure OpenAI Service, Blob Storage, and Container Apps.
+ 
+Output Reliability:  
+Implement output validation and schema enforcement layers that make LLM responses trustworthy enough for production use.
+ 
+Codebase Contribution:  
+Write code that your teammates can read, review, and build on without friction.
+ 
+ 
+WHAT YOU WILL BRING
+ 
+Required
+ 
+– 1-3 years of Python development with at least one production deployment behind you.
+ 
+– Solid grasp of async Python and REST API design, with the debugging instincts to match.
+ 
+– Hands-on experience with LangChain or a comparable LLM orchestration library.
+ 
+– Working knowledge of Azure: OpenAI Service, Blob Storage, and App Service or Container Apps.
+ 
+– You understand why output validation, structured schemas, and retry logic matter in production — not just that they exist.
+ 
+– Comfortable working in a shared codebase with other engineers.
+ 
+Preferred
+ 
+– Pydantic for structured output parsing and schema validation.
+ 
+– Experience with RAG pipelines or document ingestion workflows.
+ 
+– Azure DevOps or GitHub Actions for CI/CD.
+ 
+– Any prior work building multi-step or tool-using LLM agents.
+ 
+WHAT SUCCESS LOOKS LIKE
+ 
+We are not looking for someone who knows everything. We are looking for someone who ships, learns, and communicates clearly. A strong candidate will be able to show:
+ 
+– You have built a REST API that other services depend on.
+ 
+– You have integrated an external API and handled its failure modes, not just the happy path.
+ 
+– You can explain a design decision, defend it under pushback, and revise it when shown a better argument.
+ 
+OUT OF SCOPE FOR THIS ROLE
+ 
+In the interest of honesty, the following are not part of this position:
+ 
+– Prompt engineering as the primary responsibility.
+ 
+– Frontend or UI development.
+ 
+– Machine learning model training or fine-tuning.
+ 
+– Autonomous deployment to production environments without engineer review.
+ 
+TECHNOLOGY STACK
+ 
+Python  |  FastAPI  |  LangChain  |  Azure OpenAI  |  Azure Blob Storage  |  Container Apps  |  Pydantic  |  GitHub / Azure DevOps
+ 
+WHY WORK WITH US
+ 
+– You will work on systems that are used in real projects by real teams — not internal demos or sandboxed experiments.
+ 
+– You will work closely with senior engineers and architects, not be left to figure things out alone.
+ 
+– Code quality, system design, and governance are taken seriously here. Your standards will be matched.
+ 
+– Remote-friendly and outcome-focused. We care about what you ship, not when you log in.
+ 
+UI/UX Design,Figma / Adobe XD,Adobe Photoshop",https://in.linkedin.com/jobs/view/jr-ai-backend-engineer-at-cittaai-4437082291
+4441278581,Software Engineer - AI Accelerated Development,Signant Health,"Hyderabad, Telangana, India",5 days ago,Not Applicable,Full-time,Engineering and Information Technology,Software Development,"About Signant Health
+At Signant Health, we help bring life-changing treatments to patients faster. We are a global evidence generation company that supports clinical trials with smart technology, scientific expertise, and hands-on operational support — so better data leads to better decisions in healthcare. We embrace AI and advanced technologies to enhance every aspect of what we do, from data analysis to operational efficiency.
+Our teams work at the intersection of science, technology, and patient experience, delivering digital solutions powered by AI innovation that make clinical trials more efficient, more accurate, and more accessible around the world. Trusted by leading pharmaceutical companies and CROs, our platforms and services support studies across more than 90 countries and have contributed to hundreds of new drug approvals.
+If you are motivated by meaningful work, global impact, and innovation in clinical research and digital health — including the opportunity to work with cutting-edge AI technologies — you will find purpose and opportunity at Signant Health.
+About The Role
+Signant Health is looking for a Software Engineer – AI Accelerated Development to build AI-powered, agentic features into our clinical trial platforms. Working across the .NET stack, you will take AI capabilities from backend LLM integration through to a usable front-end — designing agents and agentic workflows, not just prompting a model. This is a hands-on engineering role for someone who works with agentic tooling every day and wants to ship production AI in a regulated, high-impact environment. We weigh the depth of your AI and agentic build experience more heavily than years of general experience: a developer with one to three years of substantive, hands-on agentic work is exactly the profile we are targeting.
+KEY ACCOUNTABILITIES – Function
+1-5 Years of experience in AI, .NET and Fullstack.
+Design and build AI agents and agentic workflows — tool-use/function calling, multi-step task orchestration, and agent loops — that power Signant Health's clinical trial platforms.
+Integrate LLM APIs (Anthropic, OpenAI, Bedrock, or Azure OpenAI) into .NET application code, handling authentication, streaming, error handling, and cost/latency tradeoffs.
+Deliver AI features end-to-end, taking them from backend integration through to a usable, production-ready front-end.
+Build custom agents and tools with the Claude Agent SDK, wiring and steering agent loops.
+Author custom skills and slash commands for Claude Code to codify team-specific workflows.
+Implement RAG pipelines and integrate vector stores (e.g. Qdrant, pgvector, Pinecone) to ground agent outputs in trusted data.
+Instrument agents for evaluation and observability so their outputs can be verified, measured, and audited.
+Apply AI-specific risk controls appropriate to a regulated clinical environment, addressing hallucination, determinism, and auditability of agent decisions.
+Use Claude Code (or an equivalent agentic CLI) daily as a primary development tool, reviewing and steering AI-generated diffs. 
+Knowledge, Skills & Attributes
+Essential:
+Full-stack .NET development — C#/ASP.NET Core on the backend paired with a modern front-end framework.
+Hands-on agentic development experience — building AI agents or agentic workflows (tool-use/function calling, multi-step task orchestration, agent loops); not just prompting an LLM, but building systems around one.
+Practical LLM API integration (Anthropic, OpenAI, Bedrock, or Azure OpenAI), including authentication, streaming, error handling, and cost/latency tradeoffs.
+Proven full-stack delivery of AI features — able to take an agentic/AI feature from backend integration through to a usable front-end, not just a notebook prototype.
+Daily, hands-on use of Claude Code (or an equivalent agentic CLI) as a primary development tool — comfortable working through multi-step agentic sessions and reviewing and steering AI-generated diffs, rather than occasional autocomplete-style use.
+Prompt engineering — designing and iterating on system prompts as production software contracts, not one-off experiments.
+Python proficiency as the preferred language for AI/agent tooling; comfort with async patterns a plus.
+Evaluation and observability literacy — able to reason about whether an agent's output is correct and instrument it to prove so. 
+Desirable:
+Claude Agent SDK experience — building custom agents, defining tools, and wiring agent loops.
+Working knowledge of agent primitives: hooks (deterministic pre/post-tool-call controls), skills (progressive-disclosure, load-on-demand instructions), subagents/multi-agent delegation, and session/state management.
+Experience authoring custom skills or slash commands for Claude Code to codify team-specific workflows.
+Exposure to MCP (Model Context Protocol) for connecting agents to internal tools and data sources.
+Working knowledge of RAG patterns and vector store integration (e.g. Qdrant, pgvector, Pinecone).
+Awareness of AI-specific risk areas relevant to a regulated environment (OWASP LLM Top 10, hallucination/determinism concerns, and auditability of agent decisions). 
+Why Signant Health?
+At Signant Health, your work has real impact. Everything we build, support, and deliver helps advance clinical research and bring new treatments to patients faster — improving lives around the world. Our teams combine science, technology, and operational expertise to solve complex clinical trial challenges, and every role contributes to that mission.
+We offer a collaborative, global environment where you can grow your career while working alongside experts across clinical, technology, data, and operations, with opportunities to learn, take ownership, and drive meaningful innovation — not just maintain the status quo.
+If you are looking for purpose-driven work, smart colleagues, and the opportunity to help shape the future of clinical research and digital health, Signant Health is the place to do it.
+At Signant Health, accepting difference isn't enough — we celebrate it, we support it, and we nurture it for the benefit of our team members, our clients, and our community. We are proud to be an equal opportunity workplace and an affirmative action employer, committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or veteran status. Prior to their start date, all candidates are required to be verified through a thorough background check and identity verification to confirm eligibility for employment.
+Unsolicited resumes submitted by agencies or third-party recruiters directly to hiring managers or any Signant Health employee will not be considered and will not obligate Signant Health to any fees or terms associated with the submission.",https://in.linkedin.com/jobs/view/software-engineer-ai-accelerated-development-at-signant-health-4441278581
+4468236029,AI CRM Developer / CRM Automation Engineer,Uplers,"Hyderabad, Telangana, India",1 week ago,Not Applicable,Full-time,Engineering and Information Technology,"Technology, Information and Internet","Experience
+: Fresher
+Salary
+: INR 300000-1000000 / year (based on experience)
+Shift
+: (GMT+05:30) Asia/Kolkata (IST)
+Opportunity Type
+: Office ()
+Placement Type
+: Full time Permanent Position
+(*Note: This is a requirement for one of Uplers' client - Veritra)
+What do you need for this opportunity?
+Must have skills required:
+Python, SQL, Api integration
+Veritra is Looking for:
+ 
+We are looking for an 
+AI CRM Developer / CRM Automation Engineer
+ to help design, develop, and implement an AI-powered CRM that supports the complete business lifecycle. The role involves building intelligent workflows and automations across client onboarding, sales, contracts, billing, finance, and customer support.
+The ideal candidate is a developer with strong coding fundamentals, genuine curiosity about AI and emerging technologies, and the drive to experiment, innovate, and build from scratch in a greenfield environment.
+Key ResponsibilitiesDesign and develop AI-enabled CRM workflows from the ground up
+Build and automate lead management, follow-up, and sales processes
+Consolidate multiple existing tools (e.g. HubSpot) into a unified CRM platform
+Develop workflows to automate client onboarding, contract management, and notifications
+Integrate CRM systems with email platforms, Microsoft 365, billing/finance systems, and third-party APIs
+Build AI-powered capabilities including assistants, agents, and document processing features
+Explore and implement practical use cases involving LLMs and Generative AI
+Develop dashboards and reporting workflows for sales, customer, and operational visibility
+Document business processes and workflows; collaborate with stakeholders to translate requirements into solutions
+Must-Have SkillsPython — ability to write custom code and automation logic
+SQL and database fundamentals
+API development and third-party integration experience
+Good-to-Have SkillsJavaScript / TypeScript
+Azure / Azure OpenAI
+HubSpot or other CRM platforms (Salesforce, MS Dynamics)
+RAG, AI agents, or LLM implementation experience
+Microsoft Power Platform / Power Automate
+GitHub portfolio with deployed AI or automation projects
+What We're Looking ForHighly curious about AI and emerging technologies — actively experimenting beyond coursework
+Strong development mindset: can build custom solutions, not purely reliant on no-code tools
+Comfortable working in a greenfield, build-from-scratch environment with minimal hand-holding
+Stable work history consistent with what they present
+Willingness to work a fixed 2:00 PM – 11:00 PM IST shift (US team overlap required)
+How to apply for this opportunity?
+Step 1: Click On Apply! And Register or Login on our portal.
+Step 2: Complete the Screening Form & Upload updated Resume
+Step 3: Increase your chances to get shortlisted & meet the client for the Interview!
+About Uplers:
+Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.
+(Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).
+So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!",https://in.linkedin.com/jobs/view/ai-crm-developer-crm-automation-engineer-at-uplers-4468236029
+4148912479,"Python and Kubernetes Software Engineer - Data, AI/ML & Analytics",Canonical,"Hyderabad, Telangana, India",1 year ago,Not Applicable,Full-time,Engineering and Information Technology,Software Development,"Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+The company is founder led, profitable and growing. We are hiring 
+Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions 
+to join our teams building open source solutions for public cloud and private infrastructure.
+As a software engineer on the team, you'll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+Location: 
+This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+What your day will look like
+Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+Master distributed systems concepts such as observability, identity, tracing
+Work with both Kubernetes and machine-oriented open source applications
+Collaborate proactively with a distributed team of engineers, designers and product managers
+Debug issues and interact in public with upstream and Ubuntu communities
+Generate and discuss ideas, and collaborate on finding good solutions
+What we are looking for in you
+Professional or academic software delivery using Python
+Exceptional academic track record from both high school and university
+Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+Track record of going above-and-beyond expectations to achieve outstanding results
+Passion for technology evidenced by personal projects and initiatives
+The work ethic and confidence to shine alongside motivated colleagues
+Professional written and spoken English with excellent presentation skills
+Experience with Linux (Debian or Ubuntu preferred) 
+Excellent interpersonal skills, curiosity, flexibility, and accountability
+Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation
+Thoughtfulness and self-motivation 
+Result-oriented, with a personal drive to meet commitments 
+Ability to travel twice a year, for company events up to two weeks long
+Additional Skills That Would Be Nice To Have
+The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+Hands-on experience with machine learning libraries, or tools.
+Proven track record of building highly automated machine learning solutions for the cloud.
+Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+Experience with public clouds (AWS, Azure, Google Cloud)
+Working knowledge of cloud computing
+Passionate about software quality and testing
+Experience working on an open source project
+What we offer colleagues
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+About Canonical
+Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.",https://in.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-ai-ml-analytics-at-canonical-4148912479
+4468174115,Associate Specialist - Data Science,MSD,"Hyderabad, Telangana, India",2 days ago,Not Applicable,Full-time,Engineering and Information Technology,"Biotechnology Research, Pharmaceutical Manufacturing, and Veterinary Services","Job Description
+Associate Specialist - Data Science
+At our company we are leveraging analytics and technology, as we invent for life on behalf of patients around the world. We are seeking those who have a passion for using data, analytics, and insights to drive decision making, that will allow us to tackle some of the world’s greatest health threats.
+Within our commercial Insights, Analytics, and Data organization we are transforming to better power decision-making across our end-to-end commercialization process, from business development to late lifecycle management. As we endeavor, we are seeking a dynamic talent to be a Founder and serve in the role of Analyst - Data Science.
+This role involves working with our partners in different Therapeutic areas (e.g. Oncology, Vaccines, Chronic Care, etc.) and Domain areas (Market Access, pricing, etc.) across the organization to help create scalable and production-grade analytics solutions, ranging from data visualization and reporting to advanced statistical and AI/ML models. You will be working with a scrum team comprising of data scientists, business analysts, subject matter experts, data engineers, and business partners to deliver well-defined projects across therapeutic areas. This role is catered to a generalist and supports a wide range of possible tasks. These include descriptive statistics, supporting data visualization platforms, building out machine learning and advanced statistical models, which will sometimes be from scratch, and sometimes be from an existing prototype. This will involve understanding essential statistical and programming methods that ensure low bias models and parameterizing and modularizing code to support future model scalability and efficiency.
+Model development and deployment will occur in the cloud (AWS), and we’ll look for the appropriate knowledge and/or experience. You don’t have to be an expert in any of the potential areas of analytics, but need to be able to demonstrate aptitude, willingness to execute, and an ability to problem solve independently. We will have resources that you can leverage as needed. This role will require interfacing with executive and business stakeholders, so strong communication skills is a must.
+Who You Are
+ You understand the foundations of statistics and machine learning and can work in high performance computing/cloud environments, with experience/knowledge in some aspects across statistical analysis, machine learning, model management, data engineering, data visualization, and data interpretation
+ You are self-motivated, and have demonstrated abilities to think independently as a data scientist
+ You structure your data science approach according to the necessary task, while appropriately applying the correct level of model complexity to the problem at hand
+ Strong Python skills (some specifics of Sagemaker is a plus), and SQL skills are a must. Experience having deployed models to production is a plus.
+ You have an agile mindset of continuous learning and will focus on integrating enterprise value into team culture
+ You are kind, collaborative, and capable of seeking and giving candid feedback that effectively contributes to a more seamless day-to-day execution of tasks
+ Ability to spin up quick visualization prototypes in PowerBI, Qliksense, or other similar tools is preferred. Experience with R-Shiny, Bokeh, Django, or JavaScript is a plus.
+ You have an agile mindset of continuous learning and will focus on integrating enterprise value into team culture
+ You are kind, collaborative, and capable of seeking and giving candid feedback that effectively contributes to a more seamless day-to-day execution of tasks
+ Experience with real world data (e.g., claims, electronic health records) is a plus
+ Experience within any of the therapeutic areas like oncology is a plus (e.g., NCCN guidelines, SEER data, understand lines of therapy rules, have knowledge about staging and existing therapeutic spaces)
+Education Requirements
+ Required Bachelors degree with at least 0-2 years industry experience (experience requirement can be waived off for exceptional candidates
+ Preferred Advanced degree (MS, PhD) in a quantitative science or health field (e.g., computational biology, epidemiology, biostatistics, statistics, mathematics, physics, economics)
+Required Skills
+Business Intelligence (BI), Database Design, Data Engineering, Data Modeling, Data Science, Data Visualization, Machine Learning (ML), Software Development, Stakeholder Relationship Management, Waterfall Model
+Preferred Skills
+Biology, Biology, Biostatistical Analysis, Biostatistics, Business Case Development, Business Data Analytics, Business Development, Business Model Development, Business Process Development, Business Transformation, Cloud Computing, Communication, Computational Biology, Creativity, Data Analysis, Data Assessment, Data Interpretations, Data Reporting, Data Research, Decision Making, Deployment Software, Digital Analytics, Economics, Epidemiology, Group Problem Solving {+ 18 more}
+Current Employees apply HERE
+Current Contingent Workers apply HERE
+Search Firm Representatives Please Read Carefully 
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status 
+Regular
+Relocation 
+Domestic
+VISA Sponsorship 
+No
+Travel Requirements
+10%
+Flexible Work Arrangements 
+Hybrid
+Shift 
+1st - Day
+Valid Driving License 
+Yes
+Hazardous Material(s) 
+N/A
+Job Posting End Date 
+09/29/2026
+A job posting is effective until 11 59 59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date. 
+Requisition ID 
+R416648",https://in.linkedin.com/jobs/view/associate-specialist-data-science-at-msd-4468174115

@@ -1,0 +1,50 @@
+# ==============================
+# Secrets & Credentials
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+token.json
+credentials.json
+client_secret*.json
+*client_secret*.json
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ==============================
+# Generated / local output
+# ==============================
+
+Outputs/
+outputs/
+logs/
+*.log
+
+# ==============================
+# Personal files
+# ==============================
+
+AishvaryaSahuResume1.pdf
+
+# ==============================
+# VS Code / IDE
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+# OS
+# ==============================
+
+.DS_Store
+Thumbs.db

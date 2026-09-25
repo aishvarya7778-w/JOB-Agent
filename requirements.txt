@@ -1,0 +1,8 @@
+python-docx
+reportlab
+requests
+python-dotenv
+beautifulsoup4
+gspread
+google-auth
+google-auth-oauthlib
